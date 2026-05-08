@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow+Condensed&size=25&pause=10&color=72724E&center=true&vCenter=true&width=435&lines=thats+all+i+will+ever+be+;but+im+happy+knowing+that+i+will+be+okay;maybe+someday+something+will+change)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Barlow+Condensed&size=25&pause=10&color=72724E&center=true&vCenter=true&width=435&lines=thats+all+i+will+ever+be+;but+im+happy+knowing+you're+so+mine..+i'm+okay;maybe+someday+something+will+change)](https://git.io/typing-svg)
 
 
 
